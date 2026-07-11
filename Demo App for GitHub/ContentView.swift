@@ -16,7 +16,7 @@ struct ContentView: View {
                     .foregroundStyle(.white)
                     .font(.largeTitle)
                     .bold()
-                Text("Fake YJ Soon is best YJ Soon")
+                Text("Fake YJ Soon is bestest YJ Soon")
                     .foregroundStyle(.yellow)
                     .font(.system(size:99))
                     .bold()
