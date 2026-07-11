@@ -12,11 +12,11 @@ struct ContentView: View {
         ZStack {
             Color.red
             VStack {
-                Text("YJ Soon was here")
+                Text("YJ Soon was here!!!!")
                     .foregroundStyle(.white)
                     .font(.largeTitle)
                     .bold()
-                Text("Fake YJ Soon is best YJ Soon")
+                Text("Real YJ Soon is best YJ Soon")
                     .foregroundStyle(.yellow)
                     .font(.system(size:99))
                     .bold()
